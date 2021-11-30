@@ -1,0 +1,8 @@
+{
+    "token": "token",
+    "prefix": "$",
+
+    "guild": "id du serveur",
+
+    "support": "role de support id"
+}
